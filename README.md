@@ -41,6 +41,6 @@ A few example of proposed projects include:
 
 ### Classical instabilities
 
-Stability analysis of classical textbook hydrodynamic instabilities with basic states of the form **u**(x,y,z) = (U(z), 0, 0)   and  ρ(x,y,z) = ρ(z), like: 
+Stability analysis of classical textbook hydrodynamic instabilities with basic states that consist of a flow **u**(x,y,z) = (U(z), 0, 0)   and density ρ(x,y,z) = ρ(z), like: 
 
 ![ContinuousMeanStates](SimpleProfiles/SimpleProfilesContinuous.png)
