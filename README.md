@@ -8,7 +8,12 @@ The first 2-3 lectures consist a gentle stroll through the Kelvin-Helmholtz inst
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Wavecloudsduval.jpg#/media/File:Wavecloudsduval.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wavecloudsduval.jpg" alt="Wavecloudsduval.jpg"></a><br>By <a href="https://en.wikipedia.org/wiki/User:GRAHAMUK" class="extiw" title="en:User:GRAHAMUK">GRAHAMUK</a> at the <a href="https://en.wikipedia.org/wiki/" class="extiw" title="w:">English language Wikipedia</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=575598">Link</a></p>
 
-Then each student will undertake a 2-week project with a theme from a list (to be finalized). The students will present their findings in the rest of the class.
+Then each student will undertake a 2-week project with a theme from a list (to be finalized). The students will present their findings in the rest of the class. Throughout the course each student will do three projects.
+
+## Stay updated
+
+The repository will be kept updated during the course of the semester.
+
 
 ## Some examples
 
