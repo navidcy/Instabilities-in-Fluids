@@ -17,6 +17,30 @@ The repository will be kept updated during the course of the semester.
 
 ## Some examples
 
-A few example of proposed projects include the stability analysis of basic states of the form **u**(x,y,z) = (U(z), 0, 0)   and  ρ(x,y,z) = ρ(z). These include some of the classical textbook hydrodynamic instabilities, like: 
+A few example of proposed projects include:
+
+### Rayleigh-Benard Convection
+
+<img src="assets/RBconvection1.png" alt="RBconvection1" width="40%"/>
+<img src="assets/RBconvection2.jpg" alt="RBconvection2" width="80%"/>
+
+[Courtesy of the Institute of Theoretical Physics, WWU Münster]
+
+### Double-diffusive Convection (salt fingering)
+
+<img src="assets/doublediffusion.png" alt="doublediffusion" width="80%"/>
+
+[By Huppert, H. E. and J. S. Turner, _J. Fluid Mech._ **106** (1981) 299-329.]
+
+### Extra-tropical cyclones
+
+<img src="assets/midlatitudecyclone.png" alt="doublediffusion" width="80%"/>
+
+[Courtesy of NOAA / GOES / NASA]
+
+
+### Classical instabilities
+
+Stability analysis of classical textbook hydrodynamic instabilities with basic states of the form **u**(x,y,z) = (U(z), 0, 0)   and  ρ(x,y,z) = ρ(z), like: 
 
 ![ContinuousMeanStates](SimpleProfiles/SimpleProfilesContinuous.png)
