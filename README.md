@@ -26,11 +26,6 @@ A few example of proposed projects include:
 
 [Courtesy of the Institute of Theoretical Physics, WWU Münster]
 
-### Double-diffusive Convection (salt fingering)
-
-<img src="assets/doublediffusion.png" alt="doublediffusion" width="80%"/>
-
-[By Huppert, H. E. and J. S. Turner, _J. Fluid Mech._ **106** (1981) 299-329.]
 
 ### Extra-tropical cyclones
 
