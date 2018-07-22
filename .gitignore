@@ -3,3 +3,5 @@
 **/*.mem
 **/.nfs*
 
+**/.ipynb_checkpoints/
+**/*-checkpoint.ipynb
