@@ -1,4 +1,8 @@
-# Instabilities in Fluids -- Semester 2, 2018, ANU
+# Instabilities in Fluids - Semester 2, 2018, ANU
+
+### Instructor: [Navid C. Constantinou][]
+
+---
 
 This repository contains notes and material for the class "Instabilities in Fluids" (EMSC3050/EMSC4050/EMSC8014) taught in 2018 at the Australian National University.
 
@@ -38,3 +42,6 @@ Stability analysis of classical textbook hydrodynamic instabilities with basic s
 <img src="lectures/assets/midlatitudecyclone.png" title="Mid-Latitude Cyclones" width="80%"/>
 
 [Courtesy of NOAA / GOES / NASA]
+
+
+[Navid C. Constantinou]: http://www.navidconstantinou.com
