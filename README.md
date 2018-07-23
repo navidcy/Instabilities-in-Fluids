@@ -2,7 +2,7 @@
 
 This repository contains notes and material for the class "Instabilities in Fluids" (EMSC3050/EMSC4050/EMSC8014) taught in 2018 at the Australian National University.
 
-The main subject of the class is hydrodynamic instabilities. It is aimed to provide with the students both analytical and numerical skills to attack problems in hydrodynamic stability and also understand the undelying physical mechanisms responsible for those istabilities.
+The main subject of the class is hydrodynamic instabilities. It is aimed to provide with the students both analytical and numerical skills to attack problems in hydrodynamic stability and also understand the underlying physical mechanisms responsible for those instabilities.
 
 The first 2-3 lectures consist a gentle stroll through the Kelvin-Helmholtz instability, a manifestation of which is seen in the clouds over Mount Duval, NSW below:
 
@@ -19,23 +19,22 @@ The repository will be kept updated during the course of the semester.
 
 A few example of proposed projects include:
 
+### Classical instabilities
+
+Stability analysis of classical textbook hydrodynamic instabilities with basic states that consist of a flow **u**(x, y, z) = (U(z), 0, 0)  and density ρ(x, y, z) = ρ(z), like:
+
+![ContinuousMeanStates](SimpleProfiles/SimpleProfilesContinuous.png)
+
 ### Rayleigh-Benard Convection
 
-<img src="assets/RBconvection1.png" alt="RBconvection1" width="40%"/>
-<img src="assets/RBconvection2.jpg" alt="RBconvection2" width="80%"/>
+<img src="lectures/assets/RBconvection1.png" title="Rayleigh-Benard Convection" width="40%"/>
+<img src="lectures/assets/RBconvection2.jpg" title="Rayleigh-Benard Convection" width="80%"/>
 
 [Courtesy of the Institute of Theoretical Physics, WWU Münster]
 
 
 ### Extra-tropical cyclones
 
-<img src="assets/midlatitudecyclone.png" alt="doublediffusion" width="80%"/>
+<img src="lectures/assets/midlatitudecyclone.png" title="Mid-Latitude Cyclones" width="80%"/>
 
 [Courtesy of NOAA / GOES / NASA]
-
-
-### Classical instabilities
-
-Stability analysis of classical textbook hydrodynamic instabilities with basic states that consist of a flow **u**(x,y,z) = (U(z), 0, 0)   and density ρ(x,y,z) = ρ(z), like: 
-
-![ContinuousMeanStates](SimpleProfiles/SimpleProfilesContinuous.png)
