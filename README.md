@@ -58,17 +58,17 @@ Below is a list for the first projects (final)
 | 2 |  Study of Rayleigh's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions.  |  |
 | 3 |  Study of Taylor's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions.    |  |
 | 4 |  Study of Holmboe's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions.   |  |
-| 5 |  General instability criteria for parallel shear flows (stratified and unstratified): The Rayleigh criterion and the Miles & Howard criterion. | Drazin |
+| 5 |  General instability criteria for parallel shear flows (stratified and unstratified): The Rayleigh and Fjortoft's criteria for unstratified instabilities and the Miles & Howard criterion for stratified. | Drazin & Reid |
 |   |  Geophysical fluid dynamics: baroclinic instability |  |
-| 6 |  Eady's model of baroclinic instability | Drazin |
-| 7 |  Phillips' model of baroclinic instability | Drazin |
-| 8 |  Rayleigh–Bernard convection | Rayleigh's paper? |
+| 6 |  Eady's model of baroclinic instability | Vallis, Salmon |
+| 7 |  Phillips' model of baroclinic instability | Vallis, Salmon |
+| 8 |  Rayleigh–Bernard convection | Drazin & Reid book, Gayen lecture notes, Doering WHOI lectures 2008, Rayleigh 1916 paper ()? |
 
-Projects 1-4 are closely related to the unstratified Kelvin-Helmholtz instability we discussed in class. However, I'd like you to further understand the instabilities that rise through interaction of edge-waves (i.e., waves that "live" on the discontinuities of the velocity or density profiles).
+Projects 1-4 are closely related to the unstratified Kelvin-Helmholtz instability we discussed in class. However, I'd like you to further understand the instabilities that rise through interaction of edge-waves (i.e., the waves that "live" on the discontinuities of the velocity shear profiles or the discontinuity of the density profiles). Project 4 might be slightly harder than Projects 1-3 in terms of algebra but not in terms of concepts.
 
-Project 5 is for the more mathematically inclined. It involves more pen-and-paper work and proving theorems and less numerics (although I can suggest various numerical examples of stability that fall into this project).
+Project 5 is for the more mathematically inclined. It involves more pen-and-paper work rather than numerics. You are asked to study some theorems that help us decide a priori whether a general velocity and density basic profile is amenable to modal instability. I will suggest some numerical investigation of some basic states to demonstrate the validity of the theorems.
 
-Projects 6-7 are a first step in studying cyclogenesis in the mid-latidute atmospheres. These projects require to work with the, so-called, quasigeostrophic equations on a beta-plane. I can help you get a hold of those if you haven't been familiarized with them before.
+Projects 6-7 are a first step in studying cyclogenesis in the mid-latidute atmospheres. These projects require to work with the, so-called, quasigeostrophic equations on a beta-plane. Beta-plane is a simplified approximation of a flow on a rotating sphere; it keeps the geometry simple (cartesian) but incorporates the basic physics due to rotation. I can help you get a hold of the quasigeostrophic equation if you haven't been familiarized with them before.
 
 Project 8 involves the classical Rayleigh-Benard convection instability (2D) for two horizontal plates (hot plate below; cold plate on top).
 
