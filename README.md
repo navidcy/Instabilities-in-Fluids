@@ -50,7 +50,7 @@ Stability analysis of classical textbook hydrodynamic instabilities with basic s
 6. [Kelvin-Helmholtz instability: numerical study](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/04-KH-unstratified-numerical.ipynb#/)
 
 
-## Proposed Projects
+## Proposed Projects #1
 
 Below is a list for the first projects (final)
 
@@ -74,6 +74,13 @@ Projects 6-7 are a first step in studying cyclogenesis in the mid-latidute atmos
 
 Project 8 involves the classical Rayleigh-Benard convection instability (2D) for two horizontal plates (hot plate below; cold plate on top).
 
+## Problem set
+
+[Problem sets (to be submitted Sep 19th)](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/ProblemSet.ipynb?flush_cache=true#/)
+
+
+
+## Proposed Projects #2
 
 Next follows a (non-finalized) list for projects to come:
 
