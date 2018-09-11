@@ -56,14 +56,14 @@ Below is a list for the first projects (final)
 
 | # |   Theme      |  Reading |
 |:-:|-------------|------|
-| 1 |  Study of stratified Kelvin-Helmholtz profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions.  (Nick) | Drazin & Reid (2004) ch. 1, pp. 14-22; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
-| 2 |  Study of Rayleigh's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions. (Ruth) | Drazin & Reid, pp. 144-147; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
-| 3 |  Study of Taylor's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions. (Fergus) | Drazin & Reid, pp. 144-147; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
+| 1 |  Study of stratified Kelvin-Helmholtz profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions.  (Nick - [project report](Instabilities-in-Fluids/projectreports/Project1-StratifiedKH.pdf)) | Drazin & Reid (2004) ch. 1, pp. 14-22; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
+| 2 |  Study of Rayleigh's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions. (Ruth - [project report](Instabilities-in-Fluids/projectreports/Project2-Rayleigh.pdf)) | Drazin & Reid, pp. 144-147; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
+| 3 |  Study of Taylor's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions. (Fergus - [project report](Instabilities-in-Fluids/projectreports/Project3-Taylor.pdf)) | Drazin & Reid, pp. 144-147; Vallis (2017), ch. 9.1-9.2, pp. 335-345 (or in the 2006 edition, ch. 6.1-6.2) |
 | 4 |  Study of Holmboe's profile: Analytical, numerical. Mechanistic interpretation through edge-wave interactions. |  |
-| 5 |  General instability criteria for parallel shear flows (stratified and unstratified): Squire's theorem. The Rayleigh and Fjortoft's criteria for unstratified instabilities and the Miles & Howard criterion for stratified. (Kieran) | Drazin & Reid (2004) ch. 4, pp. 124-143; Charru (2011), ch. 4, pp. 104-116; Howard, *JFM* (1961) |
+| 5 |  General instability criteria for parallel shear flows (stratified and unstratified): Squire's theorem. The Rayleigh and Fjortoft's criteria for unstratified instabilities and the Miles & Howard criterion for stratified. (Kieran - [project report](Instabilities-in-Fluids/projectreports/Project5-Stability.pdf)) | Drazin & Reid (2004) ch. 4, pp. 124-143; Charru (2011), ch. 4, pp. 104-116; Howard, *JFM* (1961) |
 |   |  Geophysical fluid dynamics: baroclinic instability |  |
-| 6 |  Eady's model of baroclinic instability (Xihan) | Vallis 2017, ch. 9, pp. 349-369 (or in the 2006 edition, ch. 6.4-6.7) |
-| 7 |  Phillips' model of baroclinic instability (Shangyu) | Vallis 2017, ch. 9, pp. 349-369 (or in the 2006 edition, ch. 6.4-6.7) |
+| 6 |  Eady's model of baroclinic instability (Xihan - [project report](Instabilities-in-Fluids/projectreports/Project6-Eady.pdf)) | Vallis 2017, ch. 9, pp. 349-369 (or in the 2006 edition, ch. 6.4-6.7) |
+| 7 |  Phillips' model of baroclinic instability (Shangyu - [project report](Instabilities-in-Fluids/projectreports/Project7-Phillips.pdf)) | Vallis 2017, ch. 9, pp. 349-369 (or in the 2006 edition, ch. 6.4-6.7) |
 | 8 |  Rayleigh–Bernard convection | Drazin & Reid book, Gayen lecture notes, Doering WHOI lectures 2008, Rayleigh 1916 paper ()? |
 
 Projects 1-4 are closely related to the unstratified Kelvin-Helmholtz instability we discussed in class. However, I'd like you to further understand the instabilities that rise through interaction of edge-waves (i.e., the waves that "live" on the discontinuities of the velocity shear profiles or the discontinuity of the density profiles). Project 4 might be slightly harder than Projects 1-3 in terms of algebra but not in terms of concepts.
