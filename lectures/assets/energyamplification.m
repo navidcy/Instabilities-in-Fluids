@@ -56,6 +56,6 @@ end
 set(h, 'fontsize', 20, 'interpreter','latex', 'location', 'southwest')
 title(h, '$\theta$', 'fontsize', 20, 'interpreter','latex')
 set(gcf,'Renderer','painters','Color','w');
-print(gcf, '-dpng', '-r200', filanemasav); 
+print(gcf, '-dpng', '-r200', filenamesav); 
 
 end
