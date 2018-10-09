@@ -49,10 +49,10 @@ Stability analysis of classical textbook hydrodynamic instabilities with basic s
 5. [Kelvin-Helmholtz instability: analytical study](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/03-KH-unstratified-analytical.ipynb#/)
 6. [Kelvin-Helmholtz instability: numerical study](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/04-KH-unstratified-numerical.ipynb#/)
 7. [Intro to Generalized Stability Theory](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/05-BasicsNonmodalStability.ipynb?flush_cache=true#/)
+8. [The Eady model of baroclinic instability: modal and non-modal energy growth](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/06-QG-EadyModel.ipynb?flush_cache=true#/)
 
 
-
-## Proposed Projects #1
+## Projects #1
 
 Below is a list for the first projects (final)
 
@@ -76,13 +76,13 @@ Projects 6-7 are a first step in studying cyclogenesis in the mid-latidute atmos
 
 Project 8 involves the classical Rayleigh-Benard convection instability (2D) for two horizontal plates (hot plate below; cold plate on top).
 
-## Problem set
+## Problem set for midterm break
 
 [Problem sets (to be submitted Sep 19th)](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/ProblemSet.ipynb?flush_cache=true#/)
 
 
 
-## Proposed Projects #2
+## Projects #2
 
 Next follows a (non-finalized) list for projects to come:
 
