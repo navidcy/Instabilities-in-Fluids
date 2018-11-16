@@ -23,12 +23,12 @@ A few example of proposed projects include:
 
 Stability analysis of classical textbook hydrodynamic instabilities with basic states that consist of a flow **u**(x, y, z) = (U(z), 0, 0)  and density ρ(x, y, z) = ρ(z), like:
 
-![ContinuousMeanStates](SimpleProfiles/SimpleProfilesContinuous.png)
+<img src="SimpleProfiles/SimpleProfilesContinuous.png" title="Continuous mean profiles" width="80%"/>
 
 ### Rayleigh-Benard Convection
 
 <img src="lectures/assets/RBconvection1.png" title="Rayleigh-Benard Convection" width="40%"/>
-<img src="lectures/assets/RBconvection2.jpg" title="Rayleigh-Benard Convection" width="70%"/>
+<img src="lectures/assets/RBconvection2.jpg" title="Rayleigh-Benard Convection" width="60%"/>
 
 [Courtesy of the Institute of Theoretical Physics, WWU Münster]
 
@@ -88,22 +88,20 @@ Next follows a (non-finalized) list for projects to come:
 
 | # |   Theme      |  Reading |
 |:-:|-------------|------|
-| 8 | Study of the Couette profile: The illusive theorem by Squire. Transient perturbation growth of 2D and 3D perturbations. The Orr mechanism and the lift-up mechanism.  | Boyd 1983, Farrell & Ioannou 1993 |
-| 9 | Transient perturbation growth in Rayleigh's profile.  | ?? |
-| 10 | Transient perturbation growth in Taylor's profile.   | ?? |
-| 11 | Generalized stability theory. Theorems and  bounds on perturbations growth for non-normal (unstratified) systems and connection to 'usual' notion of modal stability. | Farrell & Ioannou 1996, Schmid & Henningson 2012 |
-| 12 |  Transient perturbation growth and optimal excitation of Eady's model. | Farrell ?? |
-| 13 |  Transient perturbation growth and optimal excitation of the Phillips' model. | ?? |
-| 14 |  Hydrodynamic stability without eigenvalues. Spectra & pseudospectra and subcritical transition to turbulence. | Trefethen et. al. 1993 |
-| 15 |  From Rayleigh–Bernard to chaos: Lorenz’s butterfly effect | Lorenz 1963 |
+| 8 | Study of the Couette profile: The illusive theorem by Squire. Transient perturbation growth of 2D perturbations and the Orr mechanism. (Shangyu - [project report](Instabilities-in-Fluids/projectreports/Project8-OrrMechanism.pdf)) | Boyd 1983, Farrell & Ioannou 1993 |
+| 9 | Transient perturbation growth in Rayleigh's profile.  |  |
+| 10 | The problems arising from eigenanalysis of non-normal operators & Singular Value Decomposition  (Fergus - [project report](Instabilities-in-Fluids/projectreports/Project10-SVD.pdf))|  |
+| 11 | Hydrodynamic stability without eigenvalues. Spectra & pseudospectra and subcritical transition to turbulence. (Kieran - [project report](Instabilities-in-Fluids/projectreports/Project11-PseudoSpectra.pdf))| Trefethen & Embree 2005, Trefethen et al. 1993 |
+| 12 |  Transient perturbation growth and optimal excitation of Eady's model. (Nick: transient growth of 3D perturbations - [project report](Instabilities-in-Fluids/projectreports/Project12-3DEady.pdf); Xihan: Contribution of the Continuous versus Discrete spectrum on transient non-normal growth - [project report](Instabilities-in-Fluids/projectreports/Project12-ContVSDiscreteEady.pdf); Ruth: Modal and non-normal growth in the Eady problem with a topographic slope - [project report](Instabilities-in-Fluids/projectreports/Project12-EadyTopography.pdf);)| lecture notes |
+| 13 |  From Rayleigh–Bernard to chaos: Lorenz’s butterfly effect | Lorenz 1963 |
 
 Project 8 deals with the Couette profile. As we discussed briefly in class the Couette profile is *modally* stable but still it does show finite-time perturbation growth. This project will involves first the discussion of Squire's theorem (see Lecture 3). Then finding the analytic solutions for the initial value problem for 2D and 3D perturbations of the Couette profile. Lastly, some discussion of the relations of the energy evolution of 2D and 3D perturbations and the connection with Squire's theorem.
 
-Projects 9 and 10 study the transient energy growth and optimal excitation (adjoints versus eigenmodes) of the classic piecewise profiles in projects 2 and 3. Similarly, projects 12 and 13 for the baroclinic instability problems studies in projects 6 and 7.
+Projects 9 studies the transient energy growth and optimal excitation (adjoints versus eigenmodes) of the classic piecewise profiles in projects 2. Similarly, projects 12 and 13 for the baroclinic instability problems studies in projects 6 and 7.
 
-Project 11 studies generalized stability theory and theorems that involve bounds on perturbation growth for every time (not only at *t*-->infinity). Project 14 introduces the generalization of eigenvalues (i.e., notion of pseudospectra) and presents a scenario for transition from a laminar to a turbulent state without any form of modal instability.
+Projects 10 presents the problems arrising from eigenanalysis of non-normal operators (i.e. when the eigenvectors are not orthogonal to each other) and shows how singular value decomposition provides for a robust, orthonormal basis related with linear operators, which also has physical meaning..
 
-Project 15 studies the classic paper by Lorenz in which he discovered chaos in a low-order truncated system of Rayleigh-Benard convection.
+Project 13 studies the classic paper by Lorenz in which he discovered chaos in a low-order truncated system of Rayleigh-Benard convection.
 
 
 
