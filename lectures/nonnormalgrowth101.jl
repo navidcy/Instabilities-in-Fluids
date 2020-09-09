@@ -31,7 +31,7 @@ Consider linear operators that act on elements of a vector space has an inner pr
 
 For example, the linear operator $ -\frac{\mathrm{d}^2}{\mathrm{d} x^2}$ acting on real-valued periodic functions $f(x)$ defined in $x\in [-L, L]$ with an inner product:
 ```math
- \Big ( f(x), g(x) \Big ) \equiv \int_{-L}^{L} f(x) g(x) \, \mathrm{d} x. \tag{1}
+ \Big ( f(x), g(x) \Big ) \equiv \int_{-L}^{L} f(x) g(x) \, \mathrm{d} x. \tag{♠}
 ```
 """
 
@@ -47,10 +47,10 @@ md"""
 """
 
 # ╔═╡ 73d28218-f284-11ea-2a66-015782fef138
-md"""For finite-dimensional vector spaces, linear operators are nothing else than  *matrices* that act on *column vectors*. In this case, the natural generalization of (1) is
+md"""For finite-dimensional vector spaces, linear operators are nothing else than  *matrices* that act on *column vectors*. In this case, the natural generalization of (♠) is
 
 ```math
- \big ( f, g \big ) \equiv f^T \, g, \tag{2}
+ \big ( f, g \big ) \equiv f^T \, g, \tag{♢}
 ```
 and one can readily confirm that the adjoint operator $A^\dagger$ is nothing else than the transpose of matrix $A$, i.e.
 ```math
@@ -142,7 +142,7 @@ Assume now that this operator $A$ describes the evolution of perturbations $\phi
 Thus, $\phi=(\phi_1, \phi_2)$ has two components it is governed by
 
 ```math
-\frac{\mathrm{d} \phi}{\mathrm{d} t} =  A\, \phi. \tag{1}
+\frac{\mathrm{d} \phi}{\mathrm{d} t} =  A\, \phi. \tag{♣}
 ```
 
 The state $\phi=0$ is an equilibrium. We want to find out whether small perturbations about $\phi=0$ will grow.
@@ -163,7 +163,7 @@ E(t) &= \tfrac1{2} [\phi_1(t)^2 + \phi_2(t)^2] \\
 energy(φ) = 0.5 * dot(φ, φ);
 
 # ╔═╡ 83bb414c-f26d-11ea-0469-5933cef63242
-md"Let's pick an initial condition $\phi(t=0)=\phi_0$. Then we solve (1) and compute the energy time-series."
+md"Let's pick an initial condition $\phi(t=0)=\phi_0$. Then we solve (♣) and compute the energy time-series."
 
 # ╔═╡ bec38c9c-f26d-11ea-1928-6930fdc6a579
 md"""If we select an eigenvectors as an initial conditions, e.g., 
