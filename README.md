@@ -51,6 +51,8 @@ Stability analysis of classical textbook hydrodynamic instabilities with basic s
 7. [Intro to Generalized Stability Theory](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/05-BasicsNonmodalStability.ipynb?flush_cache=true#/)
 8. [The Eady model of baroclinic instability: modal and non-modal energy growth](http://nbviewer.jupyter.org/format/slides/github/navidcy/Instabilities-in-Fluids/blob/master/lectures/06-QG-EadyModel.ipynb?flush_cache=true#/)
 
+In addition, the `lectures` folder also contains a reactive notebook named [`nonnormalgrowth101.jl`](https://github.com/navidcy/Instabilities-in-Fluids/blob/master/lectures/nonnormalgrowth101.jl) that was created with [Pluto.jl](https://github.com/fonsp/Pluto.jl) and was used during an introductory discussion regarding non-normality at the Climate and Fluid Physics Group at ANU (August 2020).
+
 
 ## Projects #1
 
