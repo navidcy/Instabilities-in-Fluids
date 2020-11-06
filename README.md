@@ -25,6 +25,8 @@ Stability analysis of classical textbook hydrodynamic instabilities with basic s
 
 <img src="SimpleProfiles/SimpleProfilesContinuous.png" title="Continuous mean profiles" width="80%"/>
 
+<img src="SimpleProfiles/kelvin_helmholtz_instability_total.gif" title="Stratified KH instability" width="80%"/>
+
 ### Rayleigh-Benard Convection
 
 <img src="lectures/assets/RBconvection1.png" title="Rayleigh-Benard Convection" width="40%"/>
