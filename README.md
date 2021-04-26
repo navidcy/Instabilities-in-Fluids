@@ -101,9 +101,9 @@ Next follows a (non-finalized) list for projects to come:
 
 Project 8 deals with the Couette profile. As we discussed briefly in class the Couette profile is *modally* stable but still it does show finite-time perturbation growth. This project will involves first the discussion of Squire's theorem (see Lecture 3). Then finding the analytic solutions for the initial value problem for 2D and 3D perturbations of the Couette profile. Lastly, some discussion of the relations of the energy evolution of 2D and 3D perturbations and the connection with Squire's theorem.
 
-Projects 9 studies the transient energy growth and optimal excitation (adjoints versus eigenmodes) of the classic piecewise profiles in projects 2. Similarly, projects 12 and 13 for the baroclinic instability problems studies in projects 6 and 7.
+Project 9 studies the transient energy growth and optimal excitation (adjoints versus eigenmodes) of the classic piecewise profiles in project 2. Similarly, projects 12 and 13 for the baroclinic instability problems studies in projects 6 and 7.
 
-Projects 10 presents the problems arrising from eigenanalysis of non-normal operators (i.e. when the eigenvectors are not orthogonal to each other) and shows how singular value decomposition provides for a robust, orthonormal basis related with linear operators, which also has physical meaning..
+Project 10 presents the problems arrising from eigenanalysis of non-normal operators (i.e. when the eigenvectors are not orthogonal to each other) and shows how singular value decomposition provides for a robust, orthonormal basis related with linear operators, which also has physical meaning..
 
 Project 13 studies the classic paper by Lorenz in which he discovered chaos in a low-order truncated system of Rayleigh-Benard convection.
 
